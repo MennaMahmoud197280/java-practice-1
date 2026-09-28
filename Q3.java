@@ -13,5 +13,6 @@ public class Q3 {
             System.out.println("You are an adult.");
         }
         scanner.close();
+        System.out.println("Program completed.");
     }
 }
